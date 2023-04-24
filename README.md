@@ -1,6 +1,6 @@
 # Shuttle-Booking-System-for-SNU
 
-GROUP 15
+
 SHUTTLE BOOKING SYSTEM
 
 PROJECT REPORT
